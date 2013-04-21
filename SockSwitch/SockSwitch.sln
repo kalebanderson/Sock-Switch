@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SockSwitch", "SockSwitch\SockSwitch.csproj", "{E867458F-8AA3-48A1-B9F6-4F54774B713A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SockSwitch.Tests", "SockSwitch.Tests\SockSwitch.Tests.csproj", "{90DEE35E-9016-471F-9971-0D133D6FEBB1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E867458F-8AA3-48A1-B9F6-4F54774B713A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E867458F-8AA3-48A1-B9F6-4F54774B713A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E867458F-8AA3-48A1-B9F6-4F54774B713A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E867458F-8AA3-48A1-B9F6-4F54774B713A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90DEE35E-9016-471F-9971-0D133D6FEBB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90DEE35E-9016-471F-9971-0D133D6FEBB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90DEE35E-9016-471F-9971-0D133D6FEBB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90DEE35E-9016-471F-9971-0D133D6FEBB1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
